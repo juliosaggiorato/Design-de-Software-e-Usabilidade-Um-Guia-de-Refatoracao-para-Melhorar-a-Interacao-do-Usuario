@@ -18,7 +18,7 @@ Este checklist é parte integrante do Trabalho de Conclusão de Curso 'Design de
 *Fase de design e definição da solução.*
 
 - [ ] **Mapeamento Problema-Solução:** Cada smell foi relacionado a um tipo de refatoração?
-- [ ] **Processo Iterativo (Ciclo de Melhoria): Foi adotado processo iterativo de melhoria contínua?
+- [ ] **Processo Iterativo (Ciclo de Melhoria)**: Foi adotado processo iterativo de melhoria contínua?
 - [ ] **Validação A/B:** Testes A/B foram aplicados para validação objetiva?
 - [ ] **Aplicação de Heurísticas:** As heurísticas de Nielsen foram aplicadas ao redesign?
 - [ ] **Regras de Interação:** As regras de Shneiderman foram consideradas?
