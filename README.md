@@ -14,7 +14,7 @@ Este checklist é parte integrante do Trabalho de Conclusão de Curso 'Design de
 - [ ] **Personas:** Foram criadas proto-personas para alinhar a refatoração às necessidades do público-alvo?
 - [ ] **Cenários:** Foram documentados os cenários de uso e tarefas críticas que serão testados?
 
-## 2. Refatoração Orientada à Experiência (RUX)
+## 2. Refatoração Orientada à Usabilidade (ROU)
 *Fase de design e definição da solução.*
 
 - [ ] **Mapeamento Problema-Solução:** Cada smell foi relacionado a um tipo de refatoração?
